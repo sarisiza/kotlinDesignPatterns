@@ -4,39 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adbc7628-67d9-42ca-ac35-cabe15662c04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/creationalPatterns/ChessPiece.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/creationalPatterns/Mail.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/creationalPatterns/NoMoviesList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/creationalPatterns/Property.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/creationalPatterns/Server.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/creationalPatterns/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/gettingStarted/ConfusedPlayer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/gettingStarted/DiceRoller.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/gettingStarted/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/gettingStarted/Moveable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/gettingStarted/Player.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/gettingStarted/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/structuralPatterns/Plugs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/structuralPatterns/Squad.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/structuralPatterns/StarTrekRepository.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/structuralPatterns/StarTrekRepositoryBeforeDecorator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/structuralPatterns/StormTroopers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classicalPatterns/structuralPatterns/StormTroopersBridged.kt" afterDir="false" />
+    <list default="true" id="adbc7628-67d9-42ca-ac35-cabe15662c04" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,6 +124,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706666330443</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1710204966566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710204966567</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
